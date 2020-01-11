@@ -4,20 +4,13 @@
  [One of the simulations](simulation.m) shows the interactions of the B lines, and [the other simulation](simulationHeatmap.m) shows a heatmap of the magnitudes of the B field. The output can be viewed [here.](output.pdf)
  
 ## Output
-![](Images/output-01.png)
-![](Images/output-02.png)
-![](Images/output-03.png)
-![](Images/output-04.png)
-![](Images/output-05.png)
-![](Images/output-06.png)
-![](Images/output-07.png)
-![](Images/output-08.png)
-![](Images/output-09.png)
-![](Images/output-10.png)
-![](Images/output-11.png)
-![](Images/output-12.png)
-![](Images/output-13.png)
-![](Images/output-14.png)
+<img src="Images/output-01.png" width = "400"> <img src="Images/output-02.png" width = "400">
+<img src="Images/output-03.png" width = "400"> <img src="Images/output-04.png" width = "400">
+<img src="Images/output-05.png" width = "400"> <img src="Images/output-06.png" width = "400">
+<img src="Images/output-07.png" width = "400"> <img src="Images/output-08.png" width = "400">
+<img src="Images/output-09.png" width = "400"> <img src="Images/output-10.png" width = "400">
+<img src="Images/output-11.png" width = "400"> <img src="Images/output-12.png" width = "400">
+<img src="Images/output-13.png" width = "400"> <img src="Images/output-14.png" width = "400">
  
 ## Specifications
 Using the first solenoid (L1) centered at the origin with its longitudinal axis parallel with the z-axis as a frame of reference, a second identical solenoid (L2) was added. Two rotation matrices rotated L2 315° about the y-axis and 30° about the x-axis.
